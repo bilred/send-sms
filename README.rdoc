@@ -2,9 +2,9 @@
 ACCOUNT SID
 AUTH TOKEN
 
-export TWILIO_ACCOUNT_SID="AC38684bc7dae77b8379fa4399eefff161"
-export TWILIO_AUTH_TOKEN="7f919378f75ae8466075496fdc505df2"
-export TWILIO_PHONE_NUMBER="5149963117"
+export TWILIO_ACCOUNT_SID="*******************"
+export TWILIO_AUTH_TOKEN="********************"
+export TWILIO_PHONE_NUMBER="******************"
 
 
 This README would normally document whatever steps are necessary to get the
